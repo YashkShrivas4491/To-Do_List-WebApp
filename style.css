@@ -1,0 +1,37 @@
+html, body{
+  width: 50%;
+ margin: 0 auto;
+ font-family: Arial, Helvetica, sans-serif;   
+
+}
+body {
+    background-color: #DBF9FC;
+    }
+
+.container{
+    width: 360px;
+}
+#inputField{
+width: 300px;
+height: 46px;
+font-size: 25px;
+vertical-align: middle;
+border: 1px solid black;
+
+}
+#adTodo{
+height: 50px;
+width: 50px;
+font-size: 30px;
+border: 1px solid black;
+vertical-align: middle;
+}
+
+.too-dos{
+    margin-top: 25px;
+}
+
+.paragraph-styling{
+    margin: 0;
+    cursor: pointer;
+}
